@@ -7,6 +7,9 @@ p {
     margin-top: 0;
     margin-bottom: 0rem;
 }
+.nav{
+    padding-right: 100px;
+}
 .logo{
     font-weight: 900;
     font-size: 20px;
@@ -89,7 +92,7 @@ p {
 }
 .card-pricing.popular {
     z-index: 1;
-    border: 3px solid #007bff;
+    border: 3px solid #a1dea6;
 }
 .card-pricing .list-unstyled li {
     padding: .5rem 0;
