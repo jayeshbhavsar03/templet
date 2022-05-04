@@ -1,0 +1,100 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+.logo{
+    font-weight: 900;
+    font-size: 20px;
+}
+.drop-main{
+    font-weight: 400;
+}
+.drop{
+    padding: 0px 10px;
+}
+.card1{
+    height: 29rem;
+    margin-top: 2rem;
+    border: 2px solid rgba(0, 0, 0, 0.185);
+    border-radius: 10px;
+}
+.card2{
+    height: 34rem;
+    border: 2px solid rgba(0, 0, 0, 0.185);
+    border-radius: 10px;
+}
+.card3{
+    height: 29rem;
+    margin-top: 2rem;
+    border: 2px solid rgba(0, 0, 0, 0.185);
+    border-radius: 10px;
+}
+.per{
+    font-weight: 900;
+}
+.co{
+    font-size: 13px;
+}
+.btn0 {
+    margin: 0px 25px;
+}
+.btn1 {
+    font-weight: 700;
+    border: 2px solid #8400ff;
+    border-radius: 0px;
+    color: #8400ff;
+}
+.btn1:hover{
+    background-color: #8400ff;
+    border: 2px solid #8400ff;
+    color: white;
+}
+.btn2 {
+    font-weight: 700;
+    border: 2px solid #8400ff;
+    background-color: #8400ff;
+    border-radius: 0px;
+    color: #fff;
+}
+.btn2:hover{
+    background-color: #ffffff;
+    border: 2px solid #8400ff;
+    color:#8400ff;
+}
+.check-content{
+    margin: 2rem 1rem;
+}
+.check-content1{
+    margin: 2rem 2rem;
+}
+.main-check{
+    text-align: left;
+}
+.check{
+    color: green;
+    padding: 0 10px 0 0;
+}
+.clos{
+    color: red;
+    padding: 0 10px 0 0;
+}
+.round-top{
+    border-top-left-radius: .55rem;
+    border-top-right-radius: .55rem;
+}
+.card-pricing.popular {
+    z-index: 1;
+    border: 3px solid #007bff;
+}
+.card-pricing .list-unstyled li {
+    padding: .5rem 0;
+    color: #6c757d;
+}
+
+
+  
